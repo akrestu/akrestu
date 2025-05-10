@@ -1,4 +1,4 @@
-# 👋 Halo, Konichiwa, Hola Saya Restu!
+# 👋 Halo, Konichiwa Saya Restu!
 
 <div align="center">
   <picture>
