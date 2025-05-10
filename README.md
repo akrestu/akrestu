@@ -40,7 +40,7 @@ const restu = {
 ```
 
 ## 🌐 Socials
-<div align="center">
+<div align="left">
   
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/ak.restu)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/akrestu)
@@ -49,7 +49,7 @@ const restu = {
 </div>
 
 ## 💻 Tech Stack
-<div align="center">
+<div align="left">
   
   ### Languages
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -86,7 +86,7 @@ const restu = {
 </div>
 
 ## 📊 GitHub Stats
-<div align="center">
+<div align="left">
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=akrestu&show_icons=true&theme=default&hide_border=false&include_all_commits=false&count_private=false&card_width=495"
@@ -125,7 +125,7 @@ const restu = {
 </div>
 
 ## 🏆 GitHub Trophies
-<div align="center">
+<div align="left">
   <picture>
     <source 
       srcset="https://github-profile-trophy.vercel.app/?username=akrestu&theme=flat&column=7&no-frame=false&margin-w=4"
