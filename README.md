@@ -1,4 +1,4 @@
-# 👋 Halo, Konichiwa Saya Restu!
+# 👋 Halo, Saya Restu!
 
 <div align="center">
   <picture>
@@ -35,17 +35,40 @@ const restu = {
   languages: ["Dart", "JavaScript", "PHP"],
   frameworks: ["Flutter", "Laravel", "React", "Vue"],
   tools: ["VSCode", "Git", "Docker"],
-  currentFocus: "Building innovative digital solutions"
+  currentFocus: "Building innovative digital solutions",
+  motto: "Jika kode tidak berjalan, coba jalan-jalan dulu biar fresh"
 }
 ```
 
-## 🌐 Socials
-<div align="left">
-  
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/ak.restu)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/akrestu)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:adrosrestuk@gmail.com)
-  
+## 💭 Dev Quotes & Wisdom
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <em>"Programmer sejati bukan yang bisa menghabiskan 10 jam coding tanpa istirahat, tapi yang bisa coding 1 jam tanpa menghabiskan 10 jam debugging."</em>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <em>"404: Motivasi Not Found - Tapi deadlinenya sudah 99% loading."</em>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <em>"Hubungan saya dengan coding seperti hubungan dengan kopi: pahit di awal, tapi bikin nagih terus."</em>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <em>"Tech stack-ku tinggi, tapi stack-an piring di dapur lebih tinggi lagi."</em>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <em>"Ingat! Ketika kopimu dingin, proyekmu error, dan harapanmu pupus - git commit, push, dan pulang."</em>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 💻 Tech Stack
@@ -139,6 +162,36 @@ const restu = {
   </picture>
 </div>
 
+## 📌 Latest Projects
+<div align="center">
+  <a href="https://github.com/akrestu/daily_report">
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=akrestu&repo=daily_report&theme=default&card_width=495" 
+        media="(prefers-color-scheme: light)" 
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=akrestu&repo=daily_report1&theme=tokyonight&card_width=495" 
+        media="(prefers-color-scheme: dark)" 
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=akrestu&repo=daily_report&theme=default&card_width=495" width="495" />
+    </picture>
+  </a>
+  <a href="https://github.com/akrestu/SiMoci_sistem_monitoring_cuti">
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=akrestu&repo=SiMoci_sistem_monitoring_cuti&theme=default&card_width=495" 
+        media="(prefers-color-scheme: light)" 
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=akrestu&repo=SiMoci_sistem_monitoring_cuti&theme=tokyonight&card_width=495" 
+        media="(prefers-color-scheme: dark)" 
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=akrestu&repo=SiMoci_sistem_monitoring_cuti&theme=default&card_width=495" width="495" />
+    </picture>
+  </a>
+</div>
+
 ## 🌱 Kontribusi
 
 <div align="center">
@@ -155,6 +208,28 @@ const restu = {
   </picture>
 </div>
 
+## 🚩 Filosofi Coding
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="495" align="center">
+        <img src="https://img.shields.io/badge/%F0%9F%92%BB-CODE%20LIKE%20NOBODY'S%20WATCHING-blue?style=for-the-badge" alt="Code Like Nobody Is Watching"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="495" align="center">
+        <img src="https://img.shields.io/badge/%F0%9F%9B%8C-DEBUG%20LIKE%20YOU'RE%20HUNTING%20DRAGONS-red?style=for-the-badge" alt="Debug Like You're Hunting Dragons"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="495" align="center">
+        <img src="https://img.shields.io/badge/%F0%9F%A4%94-COMMIT%20LIKE%20IT'S%20YOUR%20LAST%20DAY-green?style=for-the-badge" alt="Commit Like It's Your Last Day"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 📈 Aktivitas Coding Mingguan
 <div align="center">
   
@@ -169,19 +244,13 @@ const restu = {
   
 </div>
 
-## 💬 Random Dev Quote
+## 🌐 Socials
 <div align="center">
-  <picture>
-    <source 
-      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" 
-      media="(prefers-color-scheme: light)" 
-    />
-    <source
-      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
-      media="(prefers-color-scheme: dark)" 
-    />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="600" />
-  </picture>
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/ak.restu)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/akrestu)
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:adrosrestuk@gmail.com)
+  
 </div>
 
 ---
