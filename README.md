@@ -86,7 +86,7 @@ const restu = {
 </div>
 
 ## 📊 GitHub Stats
-<div align="left">
+<div align="center">
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=akrestu&show_icons=true&theme=default&hide_border=false&include_all_commits=false&count_private=false&card_width=495"
