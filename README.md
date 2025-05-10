@@ -40,37 +40,6 @@ const restu = {
 }
 ```
 
-## 💭 Ho-Oh
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <em>"Programmer sejati bukan yang bisa menghabiskan 10 jam coding tanpa istirahat, tapi yang bisa coding 1 jam tanpa menghabiskan 10 jam debugging."</em>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <em>"404: Motivasi Not Found - Tapi deadlinenya sudah 99% loading."</em>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <em>"Hubungan saya dengan coding seperti hubungan dengan kopi: pahit di awal, tapi bikin nagih terus."</em>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <em>"Tech stack-ku tinggi, tapi stack-an piring di dapur lebih tinggi lagi."</em>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <em>"Ingat! Ketika kopimu dingin, proyekmu error, dan harapanmu pupus - git commit, push, dan pulang."</em>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 💻 Tech Stack
 <div align="left">
   
@@ -206,20 +175,6 @@ const restu = {
     />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=akrestu&theme=minimal" width="100%" alt="Contribution Graph" />
   </picture>
-</div>
-
-## 📈 Aktivitas Coding Mingguan
-<div align="center">
-  
-  <!--START_SECTION:waka-->
-  ```text
-  Laravel     15 hrs 30 mins  ███████████░░░░░░░░  45.5%
-  Flutter     12 hrs 15 mins  ████████░░░░░░░░░░░  36.0%
-  JavaScript   4 hrs 20 mins  ███░░░░░░░░░░░░░░░░  12.7%
-  PHP           1 hr 59 mins  █░░░░░░░░░░░░░░░░░░   5.8%
-  ```
-  <!--END_SECTION:waka-->
-  
 </div>
 
 ## 🌐 Socials
