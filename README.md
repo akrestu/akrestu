@@ -184,39 +184,6 @@ const restu = {
   </picture>
 </div>
 
-<div align="center">
-  
-  ### 🎯 Terhubung dengan Proyek Saya
-  
-  <a href="https://yourwebsite.com">
-    <picture>
-      <source 
-        srcset="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" 
-        media="(prefers-color-scheme: light)" 
-      />
-      <source
-        srcset="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=dev.to&logoColor=black" 
-        media="(prefers-color-scheme: dark)" 
-      />
-      <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-    </picture>
-  </a>
-  <a href="https://blog.yourwebsite.com">
-    <picture>
-      <source 
-        srcset="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" 
-        media="(prefers-color-scheme: light)" 
-      />
-      <source
-        srcset="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" 
-        media="(prefers-color-scheme: dark)" 
-      />
-      <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
-    </picture>
-  </a>
-  
-</div>
-
 ---
 
 <div align="center">
