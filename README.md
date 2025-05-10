@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Restu!
+# 👋 Halo, Konichiwa Saya Restu!
 
 <div align="center">
   <picture>
@@ -40,7 +40,7 @@ const restu = {
 }
 ```
 
-## 💭 Dev Quotes & Wisdom
+## 💭 Ho-Oh
 <div align="center">
   <table>
     <tr>
@@ -206,28 +206,6 @@ const restu = {
     />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=akrestu&theme=minimal" width="100%" alt="Contribution Graph" />
   </picture>
-</div>
-
-## 🚩 Filosofi Coding
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="495" align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%92%BB-CODE%20LIKE%20NOBODY'S%20WATCHING-blue?style=for-the-badge" alt="Code Like Nobody Is Watching"/>
-      </td>
-    </tr>
-    <tr>
-      <td width="495" align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%9B%8C-DEBUG%20LIKE%20YOU'RE%20HUNTING%20DRAGONS-red?style=for-the-badge" alt="Debug Like You're Hunting Dragons"/>
-      </td>
-    </tr>
-    <tr>
-      <td width="495" align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%A4%94-COMMIT%20LIKE%20IT'S%20YOUR%20LAST%20DAY-green?style=for-the-badge" alt="Commit Like It's Your Last Day"/>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ## 📈 Aktivitas Coding Mingguan
