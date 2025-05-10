@@ -1,4 +1,4 @@
-# 👨‍💻 Selamat Datang di Profile GitHub Saya!
+# 👨‍💻 Sugeng rawuh!
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
@@ -6,7 +6,7 @@
 
 ## 🚀 Tentang Saya
 
-Saya adalah seorang Full Stack Developer dengan passion dalam menciptakan solusi teknologi yang berdampak. Dengan pengalaman dalam pengembangan Laravel dan aplikasi berbasis web modern, saya selalu berusaha meningkatkan keterampilan dan mengeksplorasi teknologi baru.
+Full Stack Developer dengan passion dalam menciptakan best practice. Dengan pengalaman dalam pengembangan Laravel dan aplikasi berbasis web modern.
 
 ## 🛠️ Teknologi & Tools
 
@@ -20,8 +20,8 @@ Saya adalah seorang Full Stack Developer dengan passion dalam menciptakan solusi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akrestu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akrestu&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🌟 Featured Projects
@@ -30,15 +30,11 @@ Saya adalah seorang Full Stack Developer dengan passion dalam menciptakan solusi
 Sistem manajemen laporan harian dengan fitur tracking progress, notifikasi, dan dashboard interaktif.
 - Tech Stack: Laravel, MySQL, Bootstrap, JavaScript
 
-### 👥 Organization Chart Visualizer
-Aplikasi visualisasi struktur organisasi yang dinamis dan interaktif.
-- Tech Stack: Laravel, JavaScript, D3.js
-
 ## 📫 Mari Terhubung
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akrestu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrosrestuk@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ak.restu)
 
 ---
 
